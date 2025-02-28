@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Shiva Kavali!
+# 👋 Hi, I'm K Shiva Kumar!
 
 - 🎓 **4th Year B.Tech** | Specializing in **Data Science & Web Development**
 - 🚀 Passionate about **Machine Learning, Web Development & Problem-Solving**
 - 📚 Practicing & improving DSA skills
 - 🌱 Learning **React, TypeScript, and Advanced DSA**
-- 📫 Connect with me: ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+- 📫 Connect with me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
 
 ### 🛠 Tech Stack:
 ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)
