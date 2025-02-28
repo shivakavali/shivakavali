@@ -5,8 +5,7 @@
 - 📚 Practicing & improving DSA skills
 - 🌱 Learning **React, TypeScript, and Advanced DSA**
 - 🔥 **MERN Stack Developer** | Building scalable and interactive web applications
-- 📫 Connect with me:  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivakavali4991/)
+- 📫 Connect with me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivakavali4991/)
 
 ### 🛠 Tech Stack:
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
