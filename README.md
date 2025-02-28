@@ -4,7 +4,7 @@
 - 🚀 Passionate about **Machine Learning, Web Development & Problem-Solving**
 - 📚 Practicing & improving DSA skills
 - 🌱 Learning **React, TypeScript, and Advanced DSA**
-- 📫 Connect with me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+- 📫 Connect with me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/shivakavali4991/))
 
 ### 🛠 Tech Stack:
 ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=oracle&logoColor=white)
