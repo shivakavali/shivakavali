@@ -7,7 +7,7 @@
 - 📫 Connect with me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
 
 ### 🛠 Tech Stack:
-[![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=openjdk&logoColor=white)](https://www.java.com/)
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=oracle&logoColor=white)
 ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-lightgreen?style=flat&logo=mongodb&logoColor=white)
