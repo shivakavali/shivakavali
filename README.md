@@ -1,11 +1,11 @@
 # 👋 Hi, I'm K Shiva Kumar!
 
-- 🎓 **4th Year B.Tech** | Specializing in **Data Science & Web Development**
-- 🚀 Passionate about **Machine Learning, Web Development & Problem-Solving**
-- 📚 Practicing & improving DSA skills
-- 🌱 Learning **TypeScript, and Advanced DSA**
-- 🔥 **MERN Stack Developer** | Building scalable and interactive web applications
-- 📫 Connect with me:  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivakavali4991/)
+- 🎓 **Computer Science and Engineering**
+- 🚀 Evolving in **Machine Learning, Agentic AI, Development & Problem-Solving**
+- 📚 Practicing & improving **DSA skills**
+- 🌱 Curious about **Mathematics**
+- 🔥 Solving problems without looking at the tech-domain!
+- 📫 Connect with me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivakavali4991/)
 
 ### 🛠 Tech Stack:
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
